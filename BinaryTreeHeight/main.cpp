@@ -64,12 +64,5 @@ int main(int argc, const char * argv[])
     int treeHeight = BinaryTreeHeight(node);
     cout << treeHeight << endl;
 
-
     return 0;
 }
-
-
-
-
-
-
